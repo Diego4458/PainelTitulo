@@ -1,0 +1,11 @@
+C:\Users\Diego\source\repos\TestePainel\TestePainel\bin\Debug\TestePainel.exe.config
+C:\Users\Diego\source\repos\TestePainel\TestePainel\bin\Debug\TestePainel.exe
+C:\Users\Diego\source\repos\TestePainel\TestePainel\bin\Debug\TestePainel.pdb
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.painel.resources
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.Form2.resources
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.Properties.Resources.resources
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.exe
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.pdb
+C:\Users\Diego\source\repos\TestePainel\TestePainel\obj\Debug\TestePainel.csprojAssemblyReference.cache
